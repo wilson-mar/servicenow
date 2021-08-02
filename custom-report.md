@@ -27,12 +27,18 @@ This procedure creates a new custom report which
 5. Type and select "Opened by ==> User fields".
 5. Click "Opened by ==> User fields".
 6. Type and select "Primary Group".
-7. To the right of "is" type your group.
+7. To the right of "is" type and select your group name.
 
    <img width="846" alt="snow-report-primary-group" src="https://user-images.githubusercontent.com/64391825/127794172-ef5dc2d8-2581-4c56-a839-0b115c704b03.png">
 
-9. Click the green "Run".
+9. Click the green "Run" to see a list (after a few seconds).
 
    You would need to reselect all the above again if you select an item.
 
-9. Click "Save"
+9. Click "Save" to create the report.
+10. In place of your name and date/time stamp, type a name for you new report, such as "Incident List CDB".
+11. Click the white left arrow.
+12. Click "View/Run" menu for a list of custom reports you created.
+13. Click the report desired.
+
+
