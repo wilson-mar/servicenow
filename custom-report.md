@@ -23,9 +23,10 @@ This procedure creates a new custom report which
 
    <img width="748" alt="snow-report-show-related-fields1" src="https://user-images.githubusercontent.com/64391825/127794599-9b746293-8bed-4b01-89df-c8f381c8ab79.png">
 
-4. Click "Add Filter Condition" again.
+4. Click "Show Related Fields".
+5. Type and select "Opened by ==> User fields".
 5. Click "Opened by ==> User fields".
-6. Type "Primary Group".
+6. Type and select "Primary Group".
 7. To the right of "is" type your group.
 
    <img width="846" alt="snow-report-primary-group" src="https://user-images.githubusercontent.com/64391825/127794172-ef5dc2d8-2581-4c56-a839-0b115c704b03.png">
